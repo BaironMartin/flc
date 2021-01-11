@@ -1,0 +1,42 @@
+ *{
+	 color:#f00;
+	 background-color: black ;
+	 padding :0 px;
+	 margin :0 px; 
+	font-family: 'Crimson Text', serif;
+	 
+ }
+ p{
+	 font-size 2em;
+	 font-family: georgian;
+	 line-height: 1;
+	 font-weight : 700;
+     color :#07fffa;
+ }
+ h1{
+	 text-align:center;
+	 color:blue;
+ }
+ 
+ .clase1{
+	 
+	 color:yellow;
+ }
+ 
+ #id1{
+	   color:#00FFFa;
+ }
+ 
+h2 b{
+	color:#07FF00;
+	
+}
+h1:hover{
+	color:#07FF00;
+}
+
+
+.formulario{
+	font-size: 1em;
+	color:green;
+}
